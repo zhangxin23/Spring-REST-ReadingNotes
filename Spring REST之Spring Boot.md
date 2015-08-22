@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之Spring Boot"
-description: "Spring REST实践之Spring Boot"
-category: Web
-tags: [web, Spring, REST]
----
+#Spring Boot
 
 ##Spring Boot基本描述
 可以利用http://start.spring.io网站的进行Spring Boot的初始化构建。这个初始化构建器允许你输入工程基本信息、挑选工程支持的功能，最后会生成一个zip压缩包供你下载。利用http://start.spring.io网站生成的工程模板中，在pom.xml文件中的parent tag表明此工程继承自spring-boot-starter-parent POM，这样能够保证工程继承Spring Boot的默认依赖以及版本。此POM文件中有两个依赖：spring-boot-starter-web和spring-boot-starter-test。Spring使用starter POM描述这样的POM文件。这些starter POM可引入其它的依赖。例如，spring-boot-starter-web可引入Spring MVC依赖、嵌入式Tomcat容器依赖、Jackson处理依赖。这些starter模块在提供必要依赖和简化应用的POM文件方面起到了重要作用。

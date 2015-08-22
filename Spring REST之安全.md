@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之安全"
-description: "Spring REST实践之安全"
-category: Web
-tags: [web, Spring, REST]
----
+#安全
 
 ##Securing REST Services
 

@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之Documenting REST Services"
-description: "Spring REST实践之Documenting REST Services"
-category: Web
-tags: [web, Spring, REST, Swagger]
----
+#Documenting REST Services
 
 ##Swagger基本介绍
 

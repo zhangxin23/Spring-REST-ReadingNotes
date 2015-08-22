@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之Versioning，Paging和Sorting"
-description: "Spring REST实践之Versioning，Paging和Sorting"
-category: Web
-tags: [web, Spring, REST]
----
+#Versioning Paging Sorting
 
 ##Versioning
 

@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之Spring Web MVC"
-description: "Spring REST实践之Spring Web MVC"
-category: Web
-tags: [web, Spring, REST]
----
+#Spring Web MVC
 
 ##Spring概要
 

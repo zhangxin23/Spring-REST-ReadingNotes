@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之Error Handling"
-description: "Spring REST实践之Error Handling"
-category: Web
-tags: [web, Spring, REST]
----
+#Error Handling
 
 ##Error Responses
 

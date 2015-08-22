@@ -1,10 +1,4 @@
----
-layout: post
-title: "Spring REST实践之REST基本介绍"
-description: "Spring REST实践之REST基本介绍"
-category: Web
-tags: [web, Spring, REST]
----
+#REST基本介绍
 
 ##REST是什么
 
