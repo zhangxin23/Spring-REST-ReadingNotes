@@ -69,7 +69,7 @@ HAL是其中最流行的一种，而且被Spring Framework支持。
 
 HAL(The Hypertext Application Language)是简单的超媒体类型，由Mike Kelly于2011创建。它同时支持XML和JSON格式。HAL媒体类型定义了一种资源，它是状态的容器、links的集合、嵌套资源的集合。如下图所示：
 
-![HAL resource structure](/images/HAL resource structure.md)
+![HAL resource structure](/images/HAL resource structure.png)
 
 资源状态是用JSON的key/valude形式表达的。如下面所示：
 
